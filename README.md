@@ -1,0 +1,5 @@
+# SQL_EXERCISE
+SQL_EXERCISE
+
+## SQL_EXERCISE
+![SQL_EXERCISE](./Aliases_Exe.png)
